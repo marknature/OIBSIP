@@ -1,1 +1,1 @@
-# marknature-AICTE_Oasis_Infobyte-Data_Science_Internship
+# AICTE Oasis Infobyte Data Science Internship
