@@ -14,27 +14,27 @@ Below are the tasks assigned for the internship. Complete these tasks using Pyth
 
 1. **Task 1: Iris Flower Classification**
    - **Description:** Train a machine learning model to classify iris flowers into three species: setosa, versicolor, and virginica based on their measurements.
-   - **Dataset:** [Download here](#)
+   - **Dataset:** [Download here](https://www.kaggle.com/datasets/saurabh00007/iriscsv)
    - **Deliverable:** Submit the code, model, and a brief report on the accuracy and performance of your model.
 
 2. **Task 2: Unemployment Analysis**
    - **Description:** Analyze the unemployment rate, especially the spike during COVID-19, using Python.
-   - **Dataset:** [Download here](#)
+   - **Dataset:** [Download here](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
    - **Deliverable:** Submit a report with visualizations and insights on the unemployment trends.
 
 3. **Task 3: Car Price Prediction**
    - **Description:** Develop a model to predict car prices based on factors such as brand, features, horsepower, and mileage.
-   - **Dataset:** [Download here](#)
+   - **Dataset:** [Download here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
    - **Deliverable:** Submit the code, model, and a brief report on the model’s performance and accuracy.
 
 4. **Task 4: Email Spam Detection**
    - **Description:** Build a Python-based email spam detector using machine learning, capable of classifying emails as spam or non-spam.
-   - **Dataset:** [Download here](#)
+   - **Dataset:** [Download here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
    - **Deliverable:** Submit the code, model, and a report explaining the model’s accuracy and approach.
 
 5. **Task 5: Sales Prediction**
    - **Description:** Predict future sales based on advertising spend, target segments, and platforms using machine learning.
-   - **Dataset:** [Download here](#)
+   - **Dataset:** [Download here](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
    - **Deliverable:** Submit the code, model, and a brief report detailing the prediction accuracy and methods used.
 
 ## Submission Guidelines
