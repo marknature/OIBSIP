@@ -53,5 +53,7 @@ Below are the tasks assigned for the internship. Complete these tasks using Pyth
 - **LinkedIn:** linkedin.com/OasisInfobyte
 - **Telegram:** [Oasis Infobyte Community](https://t.me/oasisinfobyte)
 
+<img src="https://th.bing.com/th/id/OIP.vmUEe4sqTIX1HlioZYsIuwHaCO?rs=1&pid=ImgDetMain">
+
 ## Final Note
 We’re excited to see your contributions! Remember to adhere to deadlines and maintain communication with the team.
