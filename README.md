@@ -1,8 +1,5 @@
 # AICTE Oasis Infobyte Data Science Internship
 
-## Overview
-Welcome to the AICTE Oasis Infobyte Data Science Internship! This document provides all necessary information regarding the tasks, submission guidelines, and important dates for the internship. Please review this document thoroughly and reach out if you have any questions.
-
 ## Internship Details
 - **Intern:** Mark Chindudzi
 - **Company:** Oasis Infobyte
