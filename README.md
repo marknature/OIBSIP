@@ -1,8 +1,5 @@
 # AICTE Oasis Infobyte Data Science Internship
 
-## Overview
-Welcome to the AICTE Oasis Infobyte Data Science Internship! This document provides all necessary information regarding the tasks, submission guidelines, and important dates for the internship. Please review this document thoroughly and reach out if you have any questions.
-
 ## Internship Details
 - **Intern:** Mark Chindudzi
 - **Company:** Oasis Infobyte
@@ -50,10 +47,7 @@ Below are the tasks assigned for the internship. Complete these tasks using Pyth
 ## Contact Information
 - **Email:** services.oasisinfobyte@gmail.com
 - **Website:** www.oasisinfobyte.com
-- **LinkedIn:** linkedin.com/OasisInfobyte
+- **LinkedIn:** [Oasis Infobyte](https://www.linkedin.com/company/oasis-infobyte/posts/?feedView=all)
 - **Telegram:** [Oasis Infobyte Community](https://t.me/oasisinfobyte)
 
-<img src="https://th.bing.com/th/id/OIP.vmUEe4sqTIX1HlioZYsIuwHaCO?rs=1&pid=ImgDetMain">
-
-## Final Note
-We’re excited to see your contributions! Remember to adhere to deadlines and maintain communication with the team.
+<img src="https://th.bing.com/th/id/OIP.vmUEe4sqTIX1HlioZYsIuwHaCO?rs=1&pid=ImgDetMain" width="1150">
